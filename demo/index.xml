@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chicken Road: Thrilling Quest for the Golden Egg Now on Сhickenroadbonus-review</title>
-    <link>http://chickenroadbonus-review.com/demo/</link>
+    <link>http://localhost:1313/demo/</link>
     <description>Recent content in Chicken Road: Thrilling Quest for the Golden Egg Now on Сhickenroadbonus-review</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://chickenroadbonus-review.com/demo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/demo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

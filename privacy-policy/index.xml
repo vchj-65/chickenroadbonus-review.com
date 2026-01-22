@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy Policy - Protecting Your Personal Data Securely on Сhickenroadbonus-review</title>
-    <link>http://chickenroadbonus-review.com/privacy-policy/</link>
+    <link>http://localhost:1313/privacy-policy/</link>
     <description>Recent content in Privacy Policy - Protecting Your Personal Data Securely on Сhickenroadbonus-review</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://chickenroadbonus-review.com/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
