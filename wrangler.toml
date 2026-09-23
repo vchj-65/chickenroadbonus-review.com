@@ -1,0 +1,11 @@
+name = "chickenroadbonus-review-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chickenroadbonus-review.com"
+HMAC_KEY = "9b76dd83ba80ca39c3ed4979868a16df9fbea65b064e81acc665479cb09229b0"
+COOKIE_NAME = "zvs"
+PLAY_PATH = "launch"
+BUTTON_ID = "pf6f814b97f4615f3b1e6d1611540c695"
+GATE_SALT = "7cd1abccf2a2864e"
